@@ -8,6 +8,7 @@ body
     width: 871px;
     margin: auto;
     padding-top: 20px;
+	background-color: clear;
 }
 
 #header
@@ -103,4 +104,14 @@ li
     font-size: 16px;
     margin-top: 40px;
     margin-right: 20px;
+}
+.spaceBetween
+{
+	margin: 0;
+	padding: 0;
+	line-height: 20px;
+}
+.makeSpace
+{
+	margin-top: 0;
 }
